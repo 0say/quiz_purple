@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:quiz_purple/views/start_page.dart';
+import 'package:quiz_purple/src/views/start_page.dart';
 
 void main() => runApp(MyApp());
 

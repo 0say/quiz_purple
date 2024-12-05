@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:quiz_purple/views/quiz.dart';
+import 'quiz.dart';
+
 
 class StartPage extends StatelessWidget {
   const StartPage({super.key});
